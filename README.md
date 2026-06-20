@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @AaravBhatt1
-- 👀 I’m interested in functional programming, algorithms, and machine learning
+- 👀 I’m interested in PL
