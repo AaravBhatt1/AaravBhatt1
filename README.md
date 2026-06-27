@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @AaravBhatt1
-- 👀 I’m interested in PL
+- Hi, I’m @AaravBhatt1
+- I’m interested in PL, data science, and systems
+- A lot of my old projects are private (as my code quality was not great back then)
